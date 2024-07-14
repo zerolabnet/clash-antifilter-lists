@@ -1,3 +1,5 @@
+Разработка продолжается в данном репозитории | Development continues in this repository: https://github.com/zerolabnet/ultimate-antifilter
+
 <h1 align="center">
  <img
   width="300"
